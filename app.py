@@ -12,7 +12,7 @@ def login():
 
 @app.route("/inicio")
 def index():
-    return render_template("index.html")
+    return render_template("index.html") 
 
 @app.route("/calendario")
 def calendario():

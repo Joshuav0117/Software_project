@@ -451,7 +451,7 @@ footer {
 .second-row {
   margin-left: 0;
 }
-
+ 
 @media (max-width: 900px) {
   .dept-row-images {
     gap: 50px;
